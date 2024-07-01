@@ -19,7 +19,7 @@ export default {
 
           </li>
           <li class="nav-item">
-            <router-link :to="{ name: 'home' }" class="nav-link" aria-current="page">Progetti</router-link>
+            <router-link :to="{ name: 'projects' }" class="nav-link" aria-current="page">Progetti</router-link>
             
           </li>
         </ul>
